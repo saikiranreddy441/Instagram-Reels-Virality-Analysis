@@ -5,3 +5,5 @@ Built an interactive Tableau dashboard featuring KPIs, performance segmentation,
 <h2>Dashboard Overview</h2>
 <img width="1647" height="792" alt="Insta Virality" src="https://github.com/user-attachments/assets/34e6ec93-2ac4-40d1-9c43-8a48cc2d2ff1" />
 
+Due to the large size of file, uploaded it to the drive and attaching the link here.
+https://drive.google.com/drive/folders/1FGVkmDelbRBfb4dfHs6X1ZMil0bTCQwD?usp=drive_link
